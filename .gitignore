@@ -1,0 +1,8 @@
+/thumbnails
+/graphs
+image_files.dat
+metadata.dat
+tensors.dat
+thumbnails*.dat
+launch.json
+settings.json
